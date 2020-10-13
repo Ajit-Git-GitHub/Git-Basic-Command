@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website content
 
-Tattooed banh mi bespoke DIY salvia 1.
-
-Drinking vinegar jean shorts aesthetic.
+index.html
